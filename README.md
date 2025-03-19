@@ -120,21 +120,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- AWS for their powerful cloud and machine learning services
-- Open-source cybersecurity community
-- Contributors to the various tools and libraries used in this project
-
-## 📞 Contact
-
-For questions or feedback, please open an issue or contact the repository owner.
-
----
-
-**⚠️ Disclaimer**: This system is provided for educational and professional use only. Always ensure you have proper authorization before performing security testing or monitoring on any systems or networks.
